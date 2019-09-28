@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+.body {
+	background-color:#63738C;
+}
+.center {
+  margin:auto ;
+  width: 400px;
+  padding: 10px;
+}
+.form {
+	align:center;
+	height: 500px;
+	text-align:center;
+	padding:10px;
+	background-color:#F2F3F7;
+	margin:150px 0 0 0;
+}
+.registration{
+	font-family: Helvetica;
+	font-size:40px;
+	color:gray;
+}
+.normal{
+	font-family:Helvetica;
+	font-size:12px;
+	color:gray;
+}
+.inputuserpassword{
+	padding:10px;
+	width:170px;
+}
+.input1{
+	font-family:Helvetica;
+	padding:10px;
+	width:340px;
+}
+.inputbutton{
+	font-size:20px;
+	height:40px;
+	width:337px;
+	text-align:center;
+	background-color: green; 
+	color:white;
+	font-family:Helvetica;
+}
+.pbottom{
+	font-family:Helvetica;
+	text-align:center;
+	font-size:16px;
+	color:white;
+}
